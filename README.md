@@ -56,15 +56,9 @@ demo:
 依赖：
 ```shell script
         <dependency>
-            <groupId>com.intuit.karate</groupId>
-            <artifactId>karate-netty</artifactId>
-            <version>0.9.2</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.intuit.karate</groupId>
-            <artifactId>karate-junit4</artifactId>
-            <version>0.9.2</version>
+            <groupId>com.github.tomakehurst</groupId>
+            <artifactId>wiremock-jre8</artifactId>
+            <version>2.25.1</version>
             <scope>test</scope>
         </dependency>
 ```
